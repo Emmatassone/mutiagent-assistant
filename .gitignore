@@ -10,8 +10,10 @@ docs/Profesor/*
 !docs/Profesor/.gitkeep
 
 university_chromadb/*
+!university_chromadb/.gitkeep
 
 new_docs/*
+!new_docs/.gitkeep
 
 __pycache__/
 
