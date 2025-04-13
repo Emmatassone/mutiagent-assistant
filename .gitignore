@@ -1,11 +1,17 @@
 docs/Administrativo/*
+!docs/Administrativo/.gitkeep
 docs/Estudiante/*
+!docs/Estudiante/.gitkeep
 docs/Externo/*
+!docs/Externo/.gitkeep
 docs/ignore/*
+!docs/ignore/.gitkeep
 docs/Profesor/*
+!docs/Profesor/.gitkeep
 
 university_chromadb/*
 
 new_docs/*
 
 __pycache__/
+
