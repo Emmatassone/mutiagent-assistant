@@ -1,0 +1,11 @@
+docs/Administrativo/*
+docs/Estudiante/*
+docs/Externo/*
+docs/ignore/*
+docs/Profesor/*
+
+university_chromadb/*
+
+new_docs/*
+
+__pycache__/
